@@ -1,2 +1,2 @@
-print("Hello World")
-print("My Name is Paula")
+print("Reading data from data/dataset.csv")
+
